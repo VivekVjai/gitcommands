@@ -11,3 +11,9 @@ git clone [ to take exact copy from remote repository to local repository]
 git pull [ to take changes from remote repository to local wrkspace ]
 
 git push [to send changes from local repository to remote repository]
+
+git config --list [to list configuration]
+
+git config --global user.name "username" [to add username ]
+
+git config --global user.email "user email" [to add user email] 
